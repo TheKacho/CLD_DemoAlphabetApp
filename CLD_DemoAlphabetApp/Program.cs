@@ -1,4 +1,5 @@
 ﻿using System;
+// This is redone in .NET 5.0
 
 namespace CLD_DemoAlphabetApp
 {
